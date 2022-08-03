@@ -1,2 +1,2 @@
 # Download-TourDC
-![Alt text](tour.png)
+![Alt text](WCALogo.jpeg)
